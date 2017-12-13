@@ -1,0 +1,33 @@
+{
+  "name": "the-country-names",
+  "version": "2.2.0",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.json",
+    "list.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theKashey/the-country-names.git"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "ISO 3166-1-alpha-2",
+    "ISO 3166-1",
+    "ISO-3166-2"
+  ],
+  "author": "Kashey <thekashey@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theKashey/the-country-names/issues"
+  },
+  "homepage": "https://github.com/theKashey/the-country-names#readme",
+  "devDependencies": {
+    "iso3166-2-db": "^2.2.0"
+  }
+}
