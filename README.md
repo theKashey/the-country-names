@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/theKashey/the-country-names.svg)](https://greenkeeper.io/)
+
 this is a small (40-120kb gziped) part of [iso3166-2-db](https://github.com/esosedi/3166) library.
 Contains only English names for the world from UN point of view
 
